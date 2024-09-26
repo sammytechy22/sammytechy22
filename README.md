@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sammytechy22
+- 👀 I’m interested in software testing, web development, and automation tools.
+- 🌱 I’m currently learning advanced testing methodologies, including automation with cypress, Jmeter and API testing with Postman.
+- 💞️ I’m looking to collaborate on QA projects, e-commerce platforms, and any exciting software testing challenges.
+- 📫 How to reach me: [Email](odirusamuel@gmail.com) | [LinkedIn](http://linkedin.com/in/samuel-odiru-5914a431b)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love testing software to make it better, and I’m an avid gamer when I’m not testing apps!
