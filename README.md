@@ -1,4 +1,4 @@
-# Hi there, I'm Samuel Odiru 👋
+# Hi there, I'm Samuel Odiru 
 
 ### Quality Assurance Engineer | Manual Testing | API Testing | Test Automation
 
